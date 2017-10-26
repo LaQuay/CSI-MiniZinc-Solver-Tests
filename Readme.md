@@ -2,16 +2,16 @@ Este repositorio contiene los ficheros de test de la prática de CSI de lógica 
 
 A continuación se muestra para cada "pruebas_especificas" si el modelo es satisfactible o no.
 
-FILE | SAT/UNSAT
------|----------
-prova_1 |SAT
-prova_2 |UNSAT	
-prova_3 |SAT
-prova_4 |UNSAT
-prova_5 |SAT
-prova_6 |UNSAT
-prova_7 |SAT
-prova_A |
+FILE | SAT/UNSAT | TEST
+-----|---------- | ----
+prova_1 |SAT   | Todas las personas tienen 1 única parada y bus asignado
+prova_2 |UNSAT | Un autobus no puede llevar mas de 'c' personas
+prova_3 |SAT   | Un autobus no puede llevar mas de 'c' personas
+prova_4 |UNSAT | Un bus no puede hacer más de 't' paradas
+prova_5 |SAT   | Un bus no puede hacer más de 't' paradas
+prova_6 |UNSAT | Cada persona de un mismo group debe viajar junta
+prova_7 |SAT   | Cada persona de un mismo group debe viajar junta
+prova_A |      |
 
 A continuación se muestra para cada "pruebas_de_carga" si el modelo es satisfactible o no.
 
