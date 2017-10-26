@@ -1,3 +1,20 @@
+Este repositorio contiene los ficheros de test de la prática de CSI de lógica proposicional realizada en MiniZinc. Contiene dos carpetas. La carpeta de "pruebas_especificas" prueban concretamente casos básicos de cada cláusula del enunciado. La carpeta de "pruebas_de_carga" prueban casos aleatorios con grandes cantidades de variables sobre el enunciado.
+
+A continuación se muestra para cada "pruebas_especificas" si el modelo es satisfactible o no.
+
+FILE | SAT/UNSAT
+-----|----------
+prova_1 |SAT
+prova_2 |UNSAT	
+prova_3 |SAT
+prova_4 |UNSAT
+prova_5 |SAT
+prova_6 |UNSAT
+prova_7 |SAT
+prova_A |
+
+A continuación se muestra para cada "pruebas_de_carga" si el modelo es satisfactible o no.
+
 FILE | SAT/UNSAT
 -----|----------
 10_1 |SAT
