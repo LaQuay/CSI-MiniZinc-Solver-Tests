@@ -1,0 +1,15 @@
+%Clausula 3: Un bus no puede hacer más de 't' paradas, UNSATISFIABLE
+
+p = 2;
+s = 2;
+b = 1;
+c = 2;
+t = 1;
+g = 0;
+
+graph =
+  [| 1, 0
+   | 0, 1
+  |];
+
+groups = []

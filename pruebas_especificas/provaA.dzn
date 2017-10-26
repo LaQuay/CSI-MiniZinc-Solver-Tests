@@ -1,0 +1,21 @@
+% Probando insatisfactibilidad con paradas y personas
+
+p = 5;
+s = 5;
+b = 2;
+c = 4;
+t = 5;
+g = 3;
+graph = 
+    [| 0, 1, 1, 1, 1
+     | 1, 1, 1, 1, 1
+     | 1, 1, 1, 1, 1
+     | 1, 1, 1, 1, 1
+     | 1, 1, 1, 1, 1
+    |];
+
+groups = [ 
+  {1},
+  {2, 3, 4, 5},
+  {5}
+]

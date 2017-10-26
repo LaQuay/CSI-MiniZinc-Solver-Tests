@@ -1,0 +1,15 @@
+% Clausula 1: Todas las personas tienen 1 única parada y bus asignado
+
+p = 2;
+s = 2;
+b = 1;
+c = 2;
+t = 2;
+g = 0;
+
+graph =
+  [| 1, 0
+   | 0, 1
+  |];
+
+groups = []
