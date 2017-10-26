@@ -9,9 +9,10 @@ prova_2 |UNSAT | Un autobus no puede llevar mas de 'c' personas
 prova_3 |SAT   | Un autobus no puede llevar mas de 'c' personas
 prova_4 |UNSAT | Un bus no puede hacer más de 't' paradas
 prova_5 |SAT   | Un bus no puede hacer más de 't' paradas
-prova_6 |UNSAT | Cada persona de un mismo group debe viajar junta
-prova_7 |SAT   | Cada persona de un mismo group debe viajar junta
-prova_A |      |
+prova_6 |UNSAT | Cada persona toma el autobús en una de sus posibles paradas
+prova_7 |SAT   | Cada persona toma el autobús en una de sus posibles paradas
+prova_8 |UNSAT | Cada persona de un mismo group debe viajar junta
+prova_9 |SAT   | Cada persona de un mismo group debe viajar junta
 
 A continuación se muestra para cada "pruebas_de_carga" si el modelo es satisfactible o no.
 
