@@ -1,4 +1,4 @@
-% Clausula 1: Todas las personas tienen 1 única parada y bus asignado
+% Clausula 1: Todas las personas tienen 1 única parada y bus asignado, SATISFIABLE
 
 p = 2;
 s = 2;
