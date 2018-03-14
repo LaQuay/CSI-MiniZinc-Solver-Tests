@@ -35,3 +35,5 @@ FILE | SAT/UNSAT
 75_1 |UNSAT
 75_2 |SAT
 100_1|UNSAT
+
+Realizado por Robert Carausu y Marc Vila
